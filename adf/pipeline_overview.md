@@ -1,7 +1,11 @@
 
 # ADF Pipeline Overview
 
-![Alternative Text to describe the image](./folder-name/image-name.png)
+
+
+![Alternative Text to describe the image](https://github.com/Simha-manoranjan-reddy/SCD-Type-2-Incremental-Pipeline/blob/main/adf/Designer%20(1).png)
+
+
 
 ## Pipeline Name
 
