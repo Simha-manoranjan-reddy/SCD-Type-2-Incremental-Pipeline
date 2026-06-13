@@ -8,15 +8,5 @@ The pipeline uses watermark-based incremental loading to process only new or cha
 
 ## Architecture
 
-```text
-Azure SQL Database
-        ↓
-Azure Data Factory
-        ↓
-ADLS Gen2 Bronze Layer
-        ↓
-Azure Databricks Silver Layer
-        ↓
-Azure Databricks Gold SCD Type 2 Dimension
-        ↓
-Power BI / BI Consumption
+<img src="path/to/your/image.png" alt="Description of image" width="400">
+
