@@ -1,6 +1,8 @@
 
 # ADF Pipeline Overview
 
+![Alternative Text to describe the image](./folder-name/image-name.png)
+
 ## Pipeline Name
 
 ```text
