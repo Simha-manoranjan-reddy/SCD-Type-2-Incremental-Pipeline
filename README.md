@@ -8,5 +8,5 @@ The pipeline uses watermark-based incremental loading to process only new or cha
 
 ## Architecture
 
-<img src="path/to/your/image.png" alt="Description of image" width="400">
+<img src="https://github.com/Simha-manoranjan-reddy/SCD-Type-2-Incremental-Pipeline/blob/main/Architecture/Designer.png" alt="Description of image" width="1000">
 
