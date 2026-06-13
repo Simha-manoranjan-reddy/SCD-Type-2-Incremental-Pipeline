@@ -131,19 +131,25 @@ This ensures historical data is retained while identifying the latest active ver
 SCD-Type-2-Incremental-Pipeline/
 │
 ├── ADF/
-│   ├── Datasets/
-│   ├── LinkedServices/
-│   └── Pipelines/
+│   ├── Designer(1).png
+│   ├── pipeline_overview.md
 │
-├── Databricks/
-│   └── Notebooks/
+├── notebooks/
+│   └──bronze_to_silver_customer_incremental.ipynb/
+|   └──goldcustomer_scd2_silver_incrementalload.ipynb/
 │
 ├── SQL/
 │   ├── SourceScripts/
 │   └── WatermarkScripts/
 │
 ├── Architecture/
-│   └── Designer.png
+│   └── create_source_customer_table.sql
+|   └── insert_day1_data.sql
+|   └── update_day2_data.sql
+|   └── update_day3_data.sql
+|   └── create_watermark_table.sql
+|   └── create_update_watermark_sp.sql
+|   └── validation_queries.sql
 │
 └── README.md
 ```
