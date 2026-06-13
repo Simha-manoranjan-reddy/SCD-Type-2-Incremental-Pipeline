@@ -3,7 +3,8 @@
 
 
 
-![Alternative Text to describe the image](https://github.com/Simha-manoranjan-reddy/SCD-Type-2-Incremental-Pipeline/blob/main/adf/Designer%20(1).png)
+<img src="https://github.com/Simha-manoranjan-reddy/SCD-Type-2-Incremental-Pipeline/blob/main/adf/Designer%20(1).png" alt="Description of image" width="900">
+
 
 
 
